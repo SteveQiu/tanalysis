@@ -1,0 +1,17 @@
+// import MUI colors
+@import "./mui-colors";
+
+// customize MUI variables
+$mui-primary-color:       mui-color('purple', '500');
+$mui-primary-color-dark:  mui-color('purple', '700');
+$mui-primary-color-light: mui-color('purple', '100');
+
+$mui-accent-color:        mui-color('purple', 'A200');
+$mui-accent-color-dark:   mui-color('purple', 'A100');
+$mui-accent-color-light:  mui-color('purple', 'A400');
+
+@import "./mui-colors";
+
+// import MUI SASS
+@import "./mui";
+@import "./tanalysis"

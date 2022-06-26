@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+npm-debug.log
+/target/
+node_modules/
+.settings/
+node_modules/
+src/main/resources/static/built/
+/.apt_generated/
+/.apt_generated_tests/
+.vscode/
+package-lock.json
+.sts4-cache
+.classpath
+.factorypath
+.project
